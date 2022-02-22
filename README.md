@@ -100,4 +100,5 @@ or You can Run start.sh File to Start the Bot
 2. Clone your fork: `git clone https://github.com/DarkThunder99/100-Commands-V2.git`
 
 ## 📝 Credits
-This Bot is Not Made By Me (My Friend gave me This Code)
+This Bot is Not Made By Me (My Friend gave me This Code
+<img  data-src="https://deploy.stdlib.com/static/images/deploy.svg" width="192">](https://open.autocode.com/)
